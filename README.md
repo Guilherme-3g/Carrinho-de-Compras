@@ -1,16 +1,20 @@
-# flutter_desafio_kodigos
+# Carrinho de Compras Flutter
 
-A new Flutter project.
+Um aplicativo simples em Flutter que permite aos usuários escolher produtos, adicioná-los a um carrinho de compras, e finalizar a compra com opções de pagamento.
 
-## Getting Started
+## Recursos
 
-This project is a starting point for a Flutter application.
+- Adição de produtos ao carrinho de compras
+- Visualização do carrinho de compras
+- Finalização da compra com opções de pagamento (Cartão de Débito, Cartão de Crédito, PIX)
 
-A few resources to get you started if this is your first Flutter project:
+## Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado em seu ambiente de desenvolvimento.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como executar o projeto
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/carrinho-compras-flutter.git
